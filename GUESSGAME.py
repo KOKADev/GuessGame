@@ -259,7 +259,7 @@ def vdgame():
             print("")
             print("Congratulations! You guessed the right number :D")
             print("After {}".format(t),"tries")
-            s = vde*5 - t
+            s = xvd*5 - t
             print("Your score is : {}".format(s))
             print("**********************************************************")
             print("* THIS CODE BY KOKADEV...KYRILLOSWALIDRADI               *")
